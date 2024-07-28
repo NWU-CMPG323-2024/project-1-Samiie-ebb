@@ -13,7 +13,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 ## Project 2: Web API
 **Repository Name**: CMPG 323 37469878  
 **Description**: This repository contains the implementation of a Web API using .NET C# MVC with JWT Security. It will also cover deployment to Azure.  
-**Link**: [Project 2 Repository](#)
+**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%202%20Submission
 
 ## Project 3: Web Application
 **Repository Name**: CMPG 323 WebApp 37469878  
