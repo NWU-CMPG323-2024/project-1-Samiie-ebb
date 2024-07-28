@@ -28,7 +28,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 ## Project 5: Reporting and Data Visualization
 **Repository Name**: CMPG 323 Reporting 37469878  
 **Description**: This repository involves reporting, data visualization, and data analysis using Power BI and AI tools.  
-**Link**: [Project 5 Repository](#)
+**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%205%20Submission
 
 ## Documentation
 The detailed documentation for all projects can be found [here](#).
