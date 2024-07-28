@@ -9,6 +9,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 **Repository Name**: CMPG 323 Overview 37469878  
 **Description**: This repository holds the initial setup and configuration for the CMPG 323 projects. It includes milestones, labels, and a README file with comprehensive instructions.  
 **Link**: [Project 1 Repository](#)
+https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%201%20Submission
 
 ## Project 2: Web API
 **Repository Name**: CMPG 323 37469878  
