@@ -23,7 +23,7 @@ This repository provides an overview of the CMPG 332 project. For each individua
 ## Project 4: RPA Testing
 **Repository Name**: CMPG 323 RPA Testing 37469878  
 **Description**: This repository is dedicated to testing automation using RPA with UiPath.  
-**Link**: [Project 4 Repository](#)
+**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%204%20Submission
 
 ## Project 5: Reporting and Data Visualization
 **Repository Name**: CMPG 323 Reporting 37469878  
