@@ -1,4 +1,23 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h7CYPb85)
+
+To get the link for a specific milestone in a GitHub repository, you need to create the milestone first. Once the milestone is created, you can copy its URL. Here's a step-by-step guide:
+
+1. **Create the Milestone:**
+   - Go to your repository on GitHub.
+   - Click on the "Issues" tab.
+   - Click on the "Milestones" link (usually found near the top).
+   - Click on the "New milestone" button.
+   - Fill in the milestone details (title, description, due date) and click "Create milestone."
+
+2. **Get the Milestone Link:**
+   - Once the milestone is created, it will appear in the list of milestones.
+   - Click on the milestone to open it.
+   - Copy the URL from the browser's address bar.
+
+Now, you can use this URL in your README file.
+
+Here is an updated version of the README with placeholders for the milestone links:
+
 # CMPG-323-Overview-37469878
 
 ## Introduction
@@ -8,27 +27,32 @@ This repository provides an overview of the CMPG 332 project. For each individua
 ## Project 1: Analysis and Planning
 **Repository Name**: CMPG 323 Overview 37469878  
 **Description**: This repository holds the initial setup and configuration for the CMPG 323 projects. It includes milestones, labels, and a README file with comprehensive instructions.  
-**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%201%20Submission
+**Link**: [Project 1 Repository](#)  
+**Milestone**: [Project 1 Submission](#) <!-- Replace # with the actual milestone link -->
 
 ## Project 2: Web API
 **Repository Name**: CMPG 323 37469878  
 **Description**: This repository contains the implementation of a Web API using .NET C# MVC with JWT Security. It will also cover deployment to Azure.  
-**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%202%20Submission
+**Link**: [Project 2 Repository](#)  
+**Milestone**: [Project 2 Submission](#) <!-- Replace # with the actual milestone link -->
 
 ## Project 3: Web Application
 **Repository Name**: CMPG 323 WebApp 37469878  
 **Description**: This repository focuses on developing a web application using .NET C# Blazor. It will follow the Repository Pattern and adhere to SOLID principles.  
-**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%203%20Submission
+**Link**: [Project 3 Repository](#)  
+**Milestone**: [Project 3 Submission](#) <!-- Replace # with the actual milestone link -->
 
 ## Project 4: RPA Testing
 **Repository Name**: CMPG 323 RPA Testing 37469878  
 **Description**: This repository is dedicated to testing automation using RPA with UiPath.  
-**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%204%20Submission
+**Link**: [Project 4 Repository](#)  
+**Milestone**: [Project 4 Submission](#) <!-- Replace # with the actual milestone link -->
 
 ## Project 5: Reporting and Data Visualization
 **Repository Name**: CMPG 323 Reporting 37469878  
 **Description**: This repository involves reporting, data visualization, and data analysis using Power BI and AI tools.  
-**Link**: https://github.com/NWU-CMPG323-2024/project-1-Samiie-ebb/milestones/Project%205%20Submission
+**Link**: [Project 5 Repository](#)  
+**Milestone**: [Project 5 Submission](#) <!-- Replace # with the actual milestone link -->
 
 ## Documentation
 The detailed documentation for all projects can be found [here](#).
@@ -52,5 +76,6 @@ Each project repository will include a `.gitignore` file to exclude files and di
 Credentials and other sensitive information should never be stored directly in the repository. Instead, use environment variables or secret management tools provided by your hosting service (such as Azure Key Vault) to manage these securely. Additionally, ensure that the `.gitignore` file is configured to exclude any files that may contain sensitive information.
 
 ---
+
 
 
