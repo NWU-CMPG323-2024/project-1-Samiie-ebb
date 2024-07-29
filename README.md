@@ -1,23 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h7CYPb85)
-
-To get the link for a specific milestone in a GitHub repository, you need to create the milestone first. Once the milestone is created, you can copy its URL. Here's a step-by-step guide:
-
-1. **Create the Milestone:**
-   - Go to your repository on GitHub.
-   - Click on the "Issues" tab.
-   - Click on the "Milestones" link (usually found near the top).
-   - Click on the "New milestone" button.
-   - Fill in the milestone details (title, description, due date) and click "Create milestone."
-
-2. **Get the Milestone Link:**
-   - Once the milestone is created, it will appear in the list of milestones.
-   - Click on the milestone to open it.
-   - Copy the URL from the browser's address bar.
-
-Now, you can use this URL in your README file.
-
-Here is an updated version of the README with placeholders for the milestone links:
-
 # CMPG-323-Overview-37469878
 
 ## Introduction
@@ -76,6 +57,8 @@ Each project repository will include a `.gitignore` file to exclude files and di
 Credentials and other sensitive information should never be stored directly in the repository. Instead, use environment variables or secret management tools provided by your hosting service (such as Azure Key Vault) to manage these securely. Additionally, ensure that the `.gitignore` file is configured to exclude any files that may contain sensitive information.
 
 ---
+
+
 
 
 
